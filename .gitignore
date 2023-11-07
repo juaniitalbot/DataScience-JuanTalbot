@@ -1,0 +1,30 @@
+generaProphet/config/conexiones.py
+generaProphet/config/parametros.cfg
+generaProphet/funciones/forecasting.py
+generaProphet/funciones/generaFechasFuturas.py
+generaProphet/funciones/generaRegresoresFuturos.py
+generaProphet/funciones/__pycache__/forecasting.cpython-311.pyc
+generaProphet/funciones/__pycache__/generaFechasFuturas.cpython-311.pyc
+generaProphet/funciones/__pycache__/generaRegresoresFuturors.cpython-311.pyc
+generaProphet/funciones/__pycache__/generaRegresoresFuturos.cpython-311.pyc
+generaProphet/src/main.py
+~$Datos.docx
+dataDebug.csv
+dataGenerada.csv
+dataGood.csv
+dataHistoria.csv
+dataHistoria.pkl
+dataHistoria1.csv
+Datos.docx
+EntendiendoGlobal.xlsx
+Estructura codigo.docx
+Forecast.py
+global2.docx
+global3.docx
+nuevo.txt
+prueba_stockDia.csv
+pruebaCrearFuture.ipynb
+pruebasGlobal.xlsx
+pruebass.xlsx
+Tarea octubre.txt
+test.csv
